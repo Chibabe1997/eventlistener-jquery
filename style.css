@@ -1,0 +1,12 @@
+body{
+    background-color: blue;
+}
+
+.big-Title{
+    font-size: 5rem;
+    color: purple;
+    font-family: cursive;
+}
+.margin-50 {
+    margin: 50px;
+}
